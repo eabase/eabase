@@ -1,5 +1,4 @@
-✨ The spark of light at the end of the tunnel, electrocuting ⚡ you,  
-into submission of Love! :sparkling_heart:  
+✨ The spark of light at the end of the tunnel, electrocuting ⚡ you, into submission of Love! :sparkling_heart:  
 ...and then there were mushrooms. :mushroom:
 
 ### Scientist, Ex-Broker and Trader
@@ -42,7 +41,6 @@ technology, all while dodging the monsters in the dark depths of ignorance.
 <div align=left>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feabase%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=broadcom.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://eabase.github.io/)] 
-[N/A](https://eabase.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=https://eabase.github.io/)](https://eabase.github.io/) (WIP)
 
 </div>
