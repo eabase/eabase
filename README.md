@@ -37,7 +37,28 @@ technology, all while dodging the monsters in the dark depths of ignorance.
 * :one: [one]() 
 * :two: [two]()
 * :three:  [:christmas_tree:]()
-  
+
+### Donations?
+
+Yes, please. Almost everything I do is Free and Open Source Software (FOSS).  
+This means that I do not receive any income on any of my projects.   
+So if you find any of my projects useful and want to help keeping  
+them updated and alive...
+
+<details><summary>Crypto Adresses</summary>
+
+| Symbol | Name | Address |
+|:--------:|:--------:|:--------|
+| BTC | Bitcoin  | `bc1qkcyxnerc2sa8xn8d30wkgfqy64jhcxxzf0xv05` |
+| ZEC | Zcash    | `t1aDszWfkHcSR5yjYrpjYLxj44Lfw7g9GDn` |
+| XMR | Monero   | `43ACVrQMQ23bh99S7ohJ4cbDA7mVXwUcYRNjyVkr4t3bgqikfpvQu9i4aBeu7vmzCKJek3pkidEFMYEZ6fJpb6Y6HgPAC5m` |
+| ETH | Ethereum | `0x53266f143193e08B91bF943a694f8F9D9435163B` |
+| LTC | Litecoin | `LW7Eu5omvBPRA1sXrKDtemVBrMYzFdwRAF` |
+
+</details>
+
+---
+
 <div align=left>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feabase%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=broadcom.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
