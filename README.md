@@ -34,7 +34,7 @@ technology, all while dodging the monsters in the dark depths of ignorance.
 - Extremely Low Latency Systems
 
 ### My Recommended Repos
-* :one: [one]() 
+* :one: [one](https://github.com/eabase/mt4pycon) 
 * :two: [two]()
 * :three:  [:christmas_tree:]()
 
@@ -60,6 +60,8 @@ them updated and alive...
 ---
 
 <div align=left>
+
+[![eabase stats](https://github-readme-stats.vercel.app/api?username=eabase&show_icons=true)](https://github.com/eabase/)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feabase%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=broadcom.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=https://eabase.github.io/)](https://eabase.github.io/) (WIP)
